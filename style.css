@@ -1,0 +1,12 @@
+#bars {
+  display: flex;
+  width: 80vw;
+}
+
+.bar {
+  background-color: lightskyblue;
+  height: 80px;
+  width: 20px;
+  border: 1px solid lavenderblush;
+  align-self: flex-end;
+}
