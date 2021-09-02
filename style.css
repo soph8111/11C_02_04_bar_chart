@@ -1,12 +1,13 @@
 #bars {
   display: flex;
   width: 80vw;
+  column-gap: 2px;
 }
 
 .bar {
   background-color: lightskyblue;
-  height: 80px;
+  /* height: 80px; */
   width: 20px;
-  border: 1px solid lavenderblush;
+  border: 2px solid rgb(218, 173, 188);
   align-self: flex-end;
 }
